@@ -1,0 +1,44 @@
+body {
+    background-color:#00FF99;
+}
+
+.main{
+    background-color: lightgreen;
+     border: 2px solid;
+    height: 200px;
+    margin: auto; 
+    width: 300px;
+    
+    
+}
+
+#main{
+    font-style:italic;
+    text-align:center;
+    
+}
+
+#lol {
+    background-color: white;
+  box-shadow: 5px 2px 5px #FFFF99;
+  margin: 15px 0px 0px 20%;
+}
+
+#text {
+    margin: 10px 0px 0px 20%;
+}
+table td {
+    font-size: 24px; 
+    font-style:oblique;
+    font-weight: bold;
+    color: black;
+}
+
+textarea{
+    font-size: 18px;
+}
+
+#button1{
+    margin-left: 125px;
+}
+
