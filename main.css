@@ -13,12 +13,17 @@ body {
     
     
 }
+header{
+    background-color:black; 
+    color:white;
+    text-align:center;
+}
 a{
     color:Black ;
     
     font-size: 20px;
 }
-a:hover{
+a:hover{ 
     color: aqua;
 }
 div {
@@ -71,5 +76,19 @@ ul{
 
 ul li{
     display: inline;
+}
+footer {
+   text-align: center; 
+    background: url(Luigibro.gif) no-repeat center;
+    background-size: cover;
+    width: 100;
+    height: 20;
+    transition: width 2s, height 2s, transform 4s;
+}
+footer:hover {
+    width: 150;
+    height: 150;
+    transform: matrix(8, 1, 2, 3, 20, 4);
+    
 }
 
