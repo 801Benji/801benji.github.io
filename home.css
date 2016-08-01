@@ -54,11 +54,11 @@ a {
 }
 
 a:hover {
-    color: purple;
+    color: #FF1493;
 }
 
 h1:hover {
-    color: purple;
+    color:#FF1493;
 }
 
 #js {
@@ -97,4 +97,16 @@ iframe {
     left: 30px;
     border: 1px solid silver;
     box-shadow: 1px 2px 3px 4px silver;
+}
+
+#insta{
+    position:relative;
+    bottom: 120px;
+    left: 425px;
+}
+
+#twitter{
+    position:relative;
+    bottom:120px;
+    left: 450px;
 }
