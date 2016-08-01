@@ -14,11 +14,12 @@ h1 {
     opacity: 1.5;
     color: white;
     text-shadow: 1px 2px 3px;
+    
 }
 
 #link {
     height: 125px;
-    margin: auto auto 20px auto;
+    margin: auto auto 30px auto;
     background: silver;
     color: white;
     text-align: center;
@@ -30,6 +31,7 @@ h1 {
     position: relative;
     bottom: 125px;
     left: 450px;
+    font-size:30px;
 }
 
 #aboutme {
@@ -64,13 +66,13 @@ h1:hover {
 #js {
     position: relative;
     bottom: 50px;
-    right: 450px;
+    right: 550px;
 }
 
 #jquery {
     position: relative;
     bottom: 50px;
-    right: 400px;
+    right: 500px;
 }
 
 #html {
@@ -82,19 +84,21 @@ h1:hover {
 #form {
     background-color: silver;
     color: black;
-    width: 200;
-    margin: 0 auto;
-    position: relative;
-    box-shadow: 1px 2px 3px 4px white;
+    width: 200px;
+    height: 200px;
+    position:relative;
+     box-shadow: 1px 2px 3px 4px white;
     border-radius: 10px;
     font-weight: bold;
     left: 200px;
+    bottom:100px;
 }
 
 iframe {
-    position: relative;
-    bottom: 300px;
-    left: 30px;
+    margin: 0 auto;
+    position:relative;
+    bottom: 350px;
+     left:500px;
     border: 1px solid silver;
     box-shadow: 1px 2px 3px 4px silver;
 }
