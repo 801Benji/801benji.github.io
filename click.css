@@ -1,0 +1,23 @@
+body {
+    background: black;
+}
+.flick {
+  background: linear-gradient(135deg, red, red 60%, blue);
+
+}
+
+button {
+    width: 90px;
+    height: 20px;
+}
+
+div {
+    background-color: red;
+    width: 24px;
+    height: 24px;
+    border: 1px solid yellow;
+}
+
+table {
+    color: orange;
+}
