@@ -18,4 +18,3 @@ $('#boxmaker').on('click', function(){
 $('#rotatebox').on('click', function(){
  $("table").transition({ x: '-200%',  opacity: 0.3 });
 });
-
