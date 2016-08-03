@@ -17,8 +17,10 @@ div {
     width: 24px;
     height: 24px;
     border: 1px solid yellow;
+    
 }
 
 table {
     color: orange;
+    transition: transform 2s;
 }

@@ -23,7 +23,10 @@ h1 {
     background: silver;
     color: white;
     text-align: center;
+   
 }
+
+
 
 #link ul li {
     display: inline;
@@ -82,7 +85,7 @@ h1:hover {
 }
 
 #form {
-    background-color: silver;
+    background-color: lightgrey;
     color: black;
     width: 200px;
     height: 200px;
@@ -92,6 +95,9 @@ h1:hover {
     font-weight: bold;
     left: 200px;
     bottom:100px;
+}
+#form:hover{
+    background:silver;
 }
 
 iframe {

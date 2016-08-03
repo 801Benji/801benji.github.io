@@ -25,7 +25,7 @@ var div =  $('table').append(list);
 
 
 
-    function math(a) {
+    function math(a,b) {
  var a = prompt("What do you wan to multiply first?");
  var b = prompt("What do you want to multiply second?");
     var square = a * b;
