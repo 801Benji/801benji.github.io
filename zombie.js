@@ -15,7 +15,7 @@ alert("Suddenly a zombie burts through a door! You ready your " + weapon + " and
 
 var survival = randomNumber(2);
     
-if(survival === 0) {
+if(survival === 1) {
     alert("The zombie bites you. As you start to see the world fade away right before your eyes.");
 }   else if (survival > 0){
     alert("You killed the zombie using your" + " " + weapon + ". You have survived for now...");
