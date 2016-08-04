@@ -105,6 +105,7 @@ iframe {
     position:relative;
     bottom: 350px;
      left:500px;
+    
     border: 1px solid silver;
     box-shadow: 1px 2px 3px 4px silver;
 }
@@ -119,4 +120,27 @@ iframe {
     position:relative;
     bottom:120px;
     left: 450px;
+}
+
+article{
+    background-color: grey;
+    height: 100px;
+    width: 250px;
+    position: relative;
+    left: 1200px;
+    bottom: 690px;
+    box-shadow: 1px 2px 3px 4px;
+}
+article div {
+    background-color:black;
+    box-shadow: 1px 2px 3px 4px;
+}
+
+article div p {
+    font-size:18px;
+    color:grey;
+    text-shadow: 1px 2px 3px;
+}
+b{
+    color:red;
 }
